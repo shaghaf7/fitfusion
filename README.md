@@ -41,7 +41,6 @@ After installing npm packages, the application will be invoked by using the foll
 npm run develop
 ```
 
-[Click me to see the app!](https://fittrack-mlvj.onrender.com)
 
 #### Example Screenshot
 
@@ -78,11 +77,11 @@ This project is licensed under MIT, for more information please visit [this webs
 
 - Icons are from www.flaticon.com
 - Backgroun photos are from www.pexels.com
-- Made with ❤️ by Wenwen Tian
+- Made with ❤️ by Shaghaf Kashif
 
 ## Questions?
 
 Please feel free to contact me if you need any further information:
 
-- [Email](wwtian9@gmail.com)
-- [Github Profile](https://github.com/joce1ynn)
+- [Email](shaghafkashif@gmail.com)
+- [Github Profile](https://github.com/shaghaf7)
