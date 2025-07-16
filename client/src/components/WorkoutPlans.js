@@ -54,3 +54,7 @@ const WorkoutPlans = () => {
 };
 
 export default WorkoutPlans;
+
+
+
+
